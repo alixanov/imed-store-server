@@ -1,7 +1,7 @@
 {
-  "name": "auto-zapchast-dokon",
+  "name": "dokon",
   "version": "1.0.0",
-  "description": "Auto zapchastlar do'koni uchun dasturiy tizim",
+  "description": " do'konlar uchun dasturiy tizim",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
